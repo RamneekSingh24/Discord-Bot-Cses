@@ -1,8 +1,8 @@
-# Discord-Bot-Codedrills
+# Discord-Bot-Cses
 Discord bot for tracking and comparing cses problemset progress of you and your friends.
 
 
-#Requirements:
+# Requirements:
 1. One of you must have solved most of cses problems, the bot will login to this account and track the progress of others.
 2. He should be willing to set up the bot or share his user login cookies with the bot owner. 
 3. Is case the problem-set is updated you need to restart the bot and with the updated problem set in problems/all.csv file and change the topics variable defined 
