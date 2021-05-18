@@ -30,4 +30,4 @@ Use these commands in the text channel to interact with the bot
 6. !code _username problem name_: The bot sends a solution.cpp file containng the solution code of the rqueest. 
 
 
-The data-base is stored in contests folder
+The data-base is stored in users and problems folder. 
