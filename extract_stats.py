@@ -4,7 +4,7 @@
 # https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
 USER_NAME = 'username'
-PASSWORD = 'password"
+PASSWORD = 'password'
 
 import mechanicalsoup
 import json
